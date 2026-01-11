@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this specification in academic or technical work, please cite it as follows."
+title: "A Formal Specification of Massively Parallel Fixed-Point Operator Schemes"
+authors:
+  - family-names: Brueckner
+    given-names: Winfried
+    orcid: "https://orcid.org/0009-0009-0008-5263"
+version: "1.0.0"
+date-released: 2026-01-11
+license: MIT
+abstract: >
+  This repository provides a formal, domain-agnostic specification of a class
+  of massively parallel fixed-point operator schemes. The document focuses on
+  mathematical structure and algorithmic abstraction rather than implementation,
+  optimization, or application. It is intended as a reference artifact for
+  research in parallel algorithms, high-performance computing, and theoretical
+  computer science.
+keywords:
+  - high-performance computing
+  - parallel algorithms
+  - fixed-point methods
+  - operator theory
+  - algorithmic specification
+repository-code: "https://github.com/<your-username>/abstract-hpc-fixed-point-spec"
